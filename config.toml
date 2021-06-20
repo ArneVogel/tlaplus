@@ -11,8 +11,8 @@ disablePathToLower = true
 
 [params]
     geekdocSearch = false
-    geekdocRepo = "https://github.com/ArneVogel/hugo"
-    geekdocEditPath = "edit/main/exampleSite/content"
+    geekdocRepo = "https://github.com/ArneVogel/tlaplus"
+    geekdocEditPath = "edit/main/content"
 
 # Needed for mermaid shortcodes
 [markup]
