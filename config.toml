@@ -1,0 +1,24 @@
+baseURL = "http://localhost"
+title = "TLA+"
+theme = "hugo-geekdoc"
+
+pluralizeListTitles = false
+
+# Geekdoc required configuration
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+disablePathToLower = true
+
+[params]
+    geekdocSearch = false
+    geekdocRepo = "https://github.com/ArneVogel/hugo"
+    geekdocEditPath = "edit/main/exampleSite/content"
+
+# Needed for mermaid shortcodes
+[markup]
+  [markup.goldmark.renderer]
+    # Needed for mermaid shortcode
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 9
