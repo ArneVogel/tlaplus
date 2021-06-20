@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://tlaplus.arnevogel.com"
 title = "TLA+"
 theme = "hugo-geekdoc"
 
