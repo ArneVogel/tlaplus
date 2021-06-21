@@ -1,7 +1,6 @@
 ---
 title: "Comments"
 date: 2021-06-21T14:03:35+02:00
-draft: true
 ---
 ## Single lines comments
 ```
