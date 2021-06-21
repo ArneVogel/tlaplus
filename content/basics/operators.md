@@ -1,7 +1,6 @@
 ---
 title: "Ascii Representation of all Operators"
 date: 2021-06-19T22:06:56+02:00
-draft: true
 katex: true
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Working with Numbers"
 date: 2021-06-20T19:10:24+02:00
-draft: true
 ---
 
 To work with numbers the module must extend `Naturals`.
